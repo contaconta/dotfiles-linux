@@ -4,8 +4,9 @@
 ## Setup
 ```
 cd ~
-git clone https://github.com/contaconta/dotfiles-linux.git  
+git clone https://github.com/contaconta/dotfiles-linux.git
 cd dotfiles-linux
+mv dotfiles-linux dotfiles
 zsh install.sh
 ```
 
